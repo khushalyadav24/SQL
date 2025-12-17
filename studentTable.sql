@@ -6,6 +6,3 @@ CREATE TABLE student (
     email VARCHAR(150),
     course VARCHAR(100)
 );
-
-
-
